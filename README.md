@@ -6,8 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=manal42&style=for-the-badge&color=b47c7c" alt="Profile views"/>
 
-### Hi there 👋
-
 <br>
 
 <!--
