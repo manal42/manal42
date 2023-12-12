@@ -8,6 +8,8 @@
 
 ### Hi there 👋
 
+<br>
+
 <!--
 **manal42/manal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,14 +25,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### About Me :
+👋 Hi there! I'm Manal Nasir, a passionate and dedicated AI enthusiast with a knack for turning ideas into code. My journey involves diving deep into the realms of data analysis, machine learning, and computer vision.
 
+<br>
+
+<!--
+🚀 My projects reflect a commitment to harnessing the power of AI to solve real-world problems. From implementing neural networks for digit classification to training AI agents for optimal control in the Lunar Lander Problem, I thrive on pushing the boundaries of what AI can achieve.
+
+🔍 Exploring the intersection of technology and innovation, I have hands-on experience with various neural network architectures, including Single Layer Perceptron (SLP), Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN), and Deep Q-Network (DQN). My expertise extends to practical applications, from image analysis to reinforcement learning.
+
+-->
+
+🌐 As a lifelong learner, I stay abreast of the latest developments in AI, always eager to experiment with new ideas and contribute to the open-source community. Collaborative by nature, I value teamwork and believe in the collective power of diverse minds coming together to solve complex challenges.
+
+<br>
+
+🛠️ Let's code the future together! 
+
+<!-- 
+Feel free to explore my repositories and reach out for collaborations or discussions on anything AI-related. Your feedback is always welcome! 🤖
+-->
+
+<br>
 
 ---
 
@@ -49,8 +68,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  title="LaTex" alt="LaTex" width="40" height="40"/>
   
-  
 </div>
+
+<br>
 
 ---
 
