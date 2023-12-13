@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there!
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=B47C7C&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hi+there!)](https://git.io/typing-svg)
 
 ### About Me:
 🧠 I'm Manal Nasir, a passionate and dedicated AI enthusiast with a knack for turning ideas into code. My journey involves diving deep into the realms of data analysis, machine learning, and computer vision.
